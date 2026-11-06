@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "admin@demo.com",
+      "name": "Admin",
+      "pw": "$2a$10$HhZ4fgJ8WDSGuoMjo5svjO1eIZXBvbu.pZrlUms0XdsQl4h7Ffi4y",
+      "role": "admin",
+      "college": "Demo",
+      "degree": "B.Tech",
+      "branch": "CSE",
+      "year": "4",
+      "grad": "2026",
+      "joined": "2026-11-02",
+      "data": null
+    },
+    {
+      "email": "helloworld@gmail.com",
+      "name": "aditya",
+      "pw": "$2a$10$WENp9EKt1BczkLTeNsGN0.uAudqZ52IEnjYYnGOz7Tw8KyApLWP.W",
+      "role": "student",
+      "college": "vignan",
+      "degree": "B.Tech",
+      "branch": "AIML",
+      "year": "3",
+      "grad": "2028",
+      "joined": "2026-11-02",
+      "data": null
+    },
+    {
+      "email": "helloworld2@gmail.com",
+      "name": "koushal",
+      "pw": "$2a$10$54fckU8sS5v3ECi6eFwygOKgUzZYdxkorE8SeFz96yz2J//tleZwm",
+      "role": "student",
+      "college": "vignan",
+      "degree": "B.Tech",
+      "branch": "AIML",
+      "year": "3",
+      "grad": "2028",
+      "joined": "2026-11-02",
+      "data": null
+    }
+  ],
+  "cos": null
+}
